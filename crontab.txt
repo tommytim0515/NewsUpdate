@@ -1,0 +1,23 @@
+0 5 * * * /home/ubuntu/anaconda3/envs/ds/bin/python /home/ubuntu/Desktop/tommy/PyFina/news_update/print_time.py >> /home/ubuntu/Desktop/tommy/PyFina/news_update/logs/auto_run.log 2>&1
+1 5 * * * /home/ubuntu/anaconda3/envs/ds/bin/python /home/ubuntu/Desktop/tommy/PyFina/news_update/main.py sin g >> /home/ubuntu/Desktop/tommy/PyFina/news_update/logs/auto_run.log 2>&1
+2 5 * * * /home/ubuntu/anaconda3/envs/ds/bin/python /home/ubuntu/Desktop/tommy/PyFina/news_update/main.py yun g >> /home/ubuntu/Desktop/tommy/PyFina/news_update/logs/auto_run.log 2>&1
+3 5 * * * /home/ubuntu/anaconda3/envs/ds/bin/python /home/ubuntu/Desktop/tommy/PyFina/news_update/main.py ton g >> /home/ubuntu/Desktop/tommy/PyFina/news_update/logs/auto_run.log 2>&1
+4 5 * * * /home/ubuntu/anaconda3/envs/ds/bin/python /home/ubuntu/Desktop/tommy/PyFina/news_update/main.py est g >> /home/ubuntu/Desktop/tommy/PyFina/news_update/logs/auto_run.log 2>&1
+5 5 * * * /home/ubuntu/anaconda3/envs/ds/bin/python /home/ubuntu/Desktop/tommy/PyFina/news_update/main.py ctv g >> /home/ubuntu/Desktop/tommy/PyFina/news_update/logs/auto_run.log 2>&1
+6 5 * * * /home/ubuntu/anaconda3/envs/ds/bin/python /home/ubuntu/Desktop/tommy/PyFina/news_update/main.py sin f >> /home/ubuntu/Desktop/tommy/PyFina/news_update/logs/auto_run.log 2>&1
+7 5 * * * /home/ubuntu/anaconda3/envs/ds/bin/python /home/ubuntu/Desktop/tommy/PyFina/news_update/main.py yun f >> /home/ubuntu/Desktop/tommy/PyFina/news_update/logs/auto_run.log 2>&1
+8 5 * * * /home/ubuntu/anaconda3/envs/ds/bin/python /home/ubuntu/Desktop/tommy/PyFina/news_update/main.py ton f >> /home/ubuntu/Desktop/tommy/PyFina/news_update/logs/auto_run.log 2>&1
+9 5 * * * /home/ubuntu/anaconda3/envs/ds/bin/python /home/ubuntu/Desktop/tommy/PyFina/news_update/main.py est f >> /home/ubuntu/Desktop/tommy/PyFina/news_update/logs/auto_run.log 2>&1
+10 5 * * * /home/ubuntu/anaconda3/envs/ds/bin/python /home/ubuntu/Desktop/tommy/PyFina/news_update/main.py ctv f >> /home/ubuntu/Desktop/tommy/PyFina/news_update/logs/auto_run.log 2>&1
+
+0 17 * * * /home/ubuntu/anaconda3/envs/ds/bin/python /home/ubuntu/Desktop/tommy/PyFina/news_update/print_time.py >> /home/ubuntu/Desktop/tommy/PyFina/news_update/logs/auto_run.log 2>&1
+1 17 * * * /home/ubuntu/anaconda3/envs/ds/bin/python /home/ubuntu/Desktop/tommy/PyFina/news_update/main.py sin g >> /home/ubuntu/Desktop/tommy/PyFina/news_update/logs/auto_run.log 2>&1
+2 17 * * * /home/ubuntu/anaconda3/envs/ds/bin/python /home/ubuntu/Desktop/tommy/PyFina/news_update/main.py yun g >> /home/ubuntu/Desktop/tommy/PyFina/news_update/logs/auto_run.log 2>&1
+3 17 * * * /home/ubuntu/anaconda3/envs/ds/bin/python /home/ubuntu/Desktop/tommy/PyFina/news_update/main.py ton g >> /home/ubuntu/Desktop/tommy/PyFina/news_update/logs/auto_run.log 2>&1
+4 17 * * * /home/ubuntu/anaconda3/envs/ds/bin/python /home/ubuntu/Desktop/tommy/PyFina/news_update/main.py est g >> /home/ubuntu/Desktop/tommy/PyFina/news_update/logs/auto_run.log 2>&1
+5 17 * * * /home/ubuntu/anaconda3/envs/ds/bin/python /home/ubuntu/Desktop/tommy/PyFina/news_update/main.py ctv g >> /home/ubuntu/Desktop/tommy/PyFina/news_update/logs/auto_run.log 2>&1
+6 17 * * * /home/ubuntu/anaconda3/envs/ds/bin/python /home/ubuntu/Desktop/tommy/PyFina/news_update/main.py sin f >> /home/ubuntu/Desktop/tommy/PyFina/news_update/logs/auto_run.log 2>&1
+7 17 * * * /home/ubuntu/anaconda3/envs/ds/bin/python /home/ubuntu/Desktop/tommy/PyFina/news_update/main.py yun f >> /home/ubuntu/Desktop/tommy/PyFina/news_update/logs/auto_run.log 2>&1
+8 17 * * * /home/ubuntu/anaconda3/envs/ds/bin/python /home/ubuntu/Desktop/tommy/PyFina/news_update/main.py ton f >> /home/ubuntu/Desktop/tommy/PyFina/news_update/logs/auto_run.log 2>&1
+9 17 * * * /home/ubuntu/anaconda3/envs/ds/bin/python /home/ubuntu/Desktop/tommy/PyFina/news_update/main.py est f >> /home/ubuntu/Desktop/tommy/PyFina/news_update/logs/auto_run.log 2>&1
+10 17 * * * /home/ubuntu/anaconda3/envs/ds/bin/python /home/ubuntu/Desktop/tommy/PyFina/news_update/main.py ctv f >> /home/ubuntu/Desktop/tommy/PyFina/news_update/logs/auto_run.log 2>&1
